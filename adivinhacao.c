@@ -1,4 +1,4 @@
-                    #include <stdio.h> //biblioteca para imprimir printf (mensagem ou o que quer se queira imprimir)
+                    #include <stdio.h> //biblioteca para imprimir printf 
                     #include <stdlib.h>
                     #include <time.h>
                     int main() {
